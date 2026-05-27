@@ -54,9 +54,9 @@ const FOOTER = `
         <div class="footer-col-head">Research</div>
         <div class="footer-col">
           <a href="research.html#maternal-aggression">Maternal Aggression</a>
-          <a href="research.html#energy-homeostasis">Energy Homeostasis</a>
-          <a href="research.html#neuroendocrine-integration">Neuroendocrine Integration</a>
-          <a href="research.html#comparative-evolutionary">Comparative Neurobiology</a>
+          <a href="research.html#energy-homeostasis">abc</a>
+          <a href="research.html#neuroendocrine-integration">abc</a>
+          <a href="research.html#comparative-evolutionary">abc</a>
         </div>
       </div>
       <div>
